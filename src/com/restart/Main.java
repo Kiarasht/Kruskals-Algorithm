@@ -70,7 +70,7 @@ class Edge implements Comparable<Edge> {
         return "From " + from + " to " + to + " with cost of " + cost + ".";
     }
 
-    public int compareTo(Edge edge) {                       // Sorts the edge list by implementing comparable
+    public int compareTo(Edge edge) {                                       // Sorts the edge list by implementing comparable
         if (this.cost < edge.cost)
             return -1;
         else
