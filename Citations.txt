@@ -1,6 +1,0 @@
-https://www.youtube.com/watch?v=5XkK88VEILk for problem 1. Last accessed (8/10/2015)
-https://www.youtube.com/watch?v=RUBU6eHAAaU for problem 1. Last accessed (8/10/2015)
-https://www.youtube.com/watch?v=5xosHRdxqHA for problem 1&2. Last accessed (8/10/2015)
-https://en.wikipedia.org/wiki/Kruskal%27s_algorithm for problem 1&2. Last accessed (8/10/2015)
-http://visualgo.net/mst.html for problem 2. Last accessed (8/10/2015)
-https://code2infinity.googlecode.com/svn/trunk/%20code2infinity%20--username%20vaibhav.shetyeG/College/AOAD/Kruskal.java for problem 2. Last accessed (8/10/2015) 
